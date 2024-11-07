@@ -3,8 +3,8 @@
 
 # Deskripsi Program
 • Pengguna memasukkan harga asli dan memilih persentase diskon
-• Setelah menghitung, tampilkan harga akhir dan jumlah
-penghematan
+
+• Setelah menghitung, tampilkan harga akhir dan jumlah penghematan
 
 # Komponen GUI
 JFrame, JPanel, JLabel, JTextField, JComboBox, JButton , JSlider
@@ -122,6 +122,10 @@ public DiskonFrame() {
             JOptionPane.showMessageDialog(this, "Masukkan nilai yang valid.", "Error", JOptionPane.ERROR_MESSAGE);
         }
 ```
+
+## Contoh Gambar Project Setelah di Run
+![]()
+
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
