@@ -124,7 +124,7 @@ public DiskonFrame() {
 ```
 
 ## Contoh Gambar Project Setelah di Run
-![]()
+![](https://github.com/firaaaa10/Tugas3_AplikasiPerhitunganDiskon/blob/main/Cuplikan%20layar%202024-11-07%20151306.png)
 
 ## Indikator Penilaian:
 
